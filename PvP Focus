@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Fx-Hub-Universal-Update/refs/heads/main/obfuscated.lua%20(7).txt"))()
+script_key = "ivr3evhpllgwa3boiil7ogmh"
+
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/214e99220109db6d0bbdea663d7f65644380b9504b5b0aadb9b0c9ceda0aef6b.lua"))()
