@@ -1,3 +1,1 @@
-script_key = "ivr3evhpllgwa3boiil7ogmh"
-
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/214e99220109db6d0bbdea663d7f65644380b9504b5b0aadb9b0c9ceda0aef6b.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Fx-Hub-Sintonia-rp-PvP-Focus/refs/heads/main/obfuscated_script-1786285910153.lua.txt"))()
