@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Fx-Hub-Sintonia-rp-PvP-Focus/refs/heads/main/obfuscated_script-1786285910153.lua.txt"))()
+getgenv().SCRIPT_KEY = "KEYLESS"
+
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/876adf45dbf6f88c2a1e530ae3206f219ea273c9aabb6e91487f344a470f12fb/download"))()
